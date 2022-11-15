@@ -1,0 +1,10 @@
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\bin\Release\netstandard2.1\SaplLibrary.deps.json
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\bin\Release\netstandard2.1\SaplLibrary.dll
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\bin\Release\netstandard2.1\SaplLibrary.pdb
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.csproj.AssemblyReference.cache
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.AssemblyInfoInputs.cache
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.AssemblyInfo.cs
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.csproj.CoreCompileInputs.cache
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.dll
+D:\Praktikum\UnityTest\SaplLibrary\SaplLibrary\obj\Release\netstandard2.1\SaplLibrary.pdb

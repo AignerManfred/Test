@@ -1,0 +1,21 @@
+{
+  "name": "io.sapl.unity",
+  "version": "1.0.0",
+  "displayName": "SAPL Unity",
+  "description": "This package contains SAPL for Unity.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://sapl.io/documentation",
+  "changelogUrl": "https://sapl.io/documentation/changelog.html",
+  "licensesUrl": "https://sapl.io/documentation/licensing.html",
+  "keywords": [
+    "SAPL",
+    "security"
+  ],
+  "author": {
+    "name": "FTK e.V. - Forschungsinstitut f\u00fcr Telekommunikation und Kooperation",
+    "email": "info@ftk.de",
+    "url": "https://www.sapl.io"
+  },
+  "type": "template"
+}
